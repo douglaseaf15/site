@@ -10,11 +10,11 @@ html, body, .capa {
 }
 body {
 	background: url('imagens/eng-ai.jpg'),
-			/*	url('imagens/ruido.png'),*/
-			/*	linear-gradient(50deg,#ff4169,#7c26f8);*/
-	/*background-attachment: fixed;*/
-	/*font-family: Helvetica,Arial,sans-serif;*/
-	/*overflow-x: hidden;*/
+			url('imagens/ruido.png'),
+				linear-gradient(50deg,#ff4169,#7c26f8);
+	background-attachment: fixed;
+	font-family: Helvetica,Arial,sans-serif;
+	overflow-x: hidden;
 }
 
 /* -- Barra de navegação -- */
@@ -98,6 +98,7 @@ nav.navbar-transparente {
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
+
 #fundo-diversos{
   background-image: url('imagens/mel.png');
   background-position: right bottom;
