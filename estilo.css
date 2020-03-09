@@ -8,10 +8,6 @@ html, body, .capa {
 	height: 100%;
 	overflow: auto;
 }
-.redes{
-    bottom:0;
-    width:100%;
-}
 body {
 	background: url('imagens/eng-ai.jpg'),
 				url('imagens/ruido.png'),
