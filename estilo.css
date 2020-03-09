@@ -1,13 +1,17 @@
 /*
 * 
-* @author Jamilton Damasceno
-* @version 0.1
+* @author Douglas Silva
 */
 
 /* ========================= layout ======================== */
 html, body, .capa {
 	height: 100%;
 	overflow: auto;
+}
+.geral {
+    min-height:100%;
+    position:relative;
+    width:800px;
 }
 
 body {
