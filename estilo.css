@@ -98,7 +98,12 @@ nav.navbar-transparente {
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
-
+#fundo-diversos{
+  background-image: url('imagens/mel.png');
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  padding: 15px;
+}
 .albuns{
 	padding: 10px 0px 10px 0px;
 }
