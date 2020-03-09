@@ -98,7 +98,9 @@ nav.navbar-transparente {
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
-
+#fundo-diversos {
+	background: white;
+}
 #fundo-diversos{
   background-image: url('imagens/mel.png');
   background-position: right bottom;
