@@ -101,10 +101,7 @@ nav.navbar-transparente {
 
 	
 #fundo-diversos{
-	linear-gradient(50deg,#ff4169,#7c26f8);
-	background-attachment: fixed;
-	font-family: Helvetica,Arial,sans-serif;
-	overflow-x: hidden;
+	background-color: hsla(89, 43%, 51%, 0.3);
 }
 .albuns{
 	padding: 10px 0px 10px 0px;
